@@ -13,16 +13,10 @@
       "id": 2
     },
     {
-      "title": "qw",
-      "body": "qwqw",
+      "title": "Shopping list",
+      "body": "*burito\n*pasta\n*ketchup",
       "author": "mario",
       "id": 3
-    },
-    {
-      "title": "aaa",
-      "body": "aaa",
-      "author": "mario",
-      "id": 4
     }
   ]
 }
